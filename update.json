@@ -1,0 +1,16 @@
+{
+  "versionName": "1.6.3",
+  "versionCode": 10603,
+  "apkUrl": "https://github.com/Fel-low/rollcut-updates/releases/download/v1.6.3/RollCut.v1.6.3.apk",
+  "notesDefault": [
+    "Configured online update checking from the RollCut GitHub update channel."
+  ],
+  "notes": {
+    "pl": [
+      "Skonfigurowano sprawdzanie aktualizacji online z kanału GitHub dla RollCut."
+    ],
+    "en": [
+      "Configured online update checking from the RollCut GitHub update channel."
+    ]
+  }
+}
